@@ -1,7 +1,7 @@
 from telebot.async_telebot import AsyncTeleBot
 from mysql.connector import connect
 
-token = "7751083686:AAEttmnu9AnqKKPRB6Qx9heUVghrvqJYuc8"
+token = "TOKEN"
 bot = AsyncTeleBot(token)
 
 class BD():
@@ -10,9 +10,9 @@ class BD():
 
 sql = connect(
   host="localhost",
-  user="root",
-  password="maisqlM41SQL",
-  database="quemeessepokemon"
+  user="---",
+  password="---",
+  database="---"
 )
 #PLACAR:
 #nome varchar200 nn
