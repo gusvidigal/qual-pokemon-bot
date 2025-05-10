@@ -1,6 +1,8 @@
 # qual-pokemon-bot
 Bot em Python criado como projeto da frente Full Stack, do PET Computação ICMC
 
+Agradecimentos ao meu amigo Pozar, que me ajudou a testar o bot.
+
 # Descrição inicial
 A proposta do projeto é programar um bot em telegram com o tema "Quem é esse Pokémon?". Ele se consiste em um jogo infinito em que, a cada rodada, algum Pokémon é sorteado e sua imagem é mandada no chat. O primeiro usuário cadastrado que adivinhar corretamente ganha um ponto. Adicionalmente, existe um placar geral de todos os usuários cadastrados no bot, em que cada ponto ganho em cada rodada é contabilizado nesse placar.
 
